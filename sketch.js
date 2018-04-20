@@ -24,7 +24,7 @@ function Ant(x, y) {
 	this.x = x;
 	this.y = y;
 	this.start = -3;
-	this.end = 10;
+	this.end = 5;
 
 	this.show = function() {
 		fill(101, 67, 33);
